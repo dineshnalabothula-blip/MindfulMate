@@ -1,0 +1,5 @@
+{
+  "name": "MindfulMate",
+  "description": "A smart reminder assistant that adapts its tone and music to your mood, helping you never forget your belongings or tasks.",
+  "requestFramePermissions": []
+}
